@@ -1,0 +1,12 @@
+{
+  "name": "binance-extend-api",
+  "version": "0.1.0",
+  "description": "Binance market instruments",
+  "scripts": {
+  },
+  "author": "trailingcat <",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0"
+  }
+}
